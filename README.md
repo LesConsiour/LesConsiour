@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @LesConsiour
 - 🌱 I’m currently learning what i like at the moment
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @lesconsiour
 
 <!---
